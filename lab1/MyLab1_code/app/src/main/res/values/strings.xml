@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLab1</string>
+    <string name="title">中山大学学生信息系统</string>
+    <string name="提示1">请输入学号</string>
+    <string name="提示2">请输入密码</string>
+    <string name="Student_id">学号:</string>
+    <string name="symbol">symbol</string>
+    <string name="password">密码:</string>
+    <string name="student">学生</string>
+    <string name="teacher">教职工</string>
+    <string name="sign_in">登录</string>
+    <string name="login">注册</string>
+    <string name="white">#FFFFFF</string>
+</resources>
